@@ -25,7 +25,10 @@ SECRET_KEY = 'django-insecure-enuo0cbem8h()2xh8viy_yeq4wujauwty*b#x3_+-ypwifyejy
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'library-btwy.onrender.com',
+]
+
 
 
 # Application definition
